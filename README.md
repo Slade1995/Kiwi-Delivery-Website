@@ -2,7 +2,7 @@
 
 Title of website: Kiwi delivery
 
-Description: the website we created is very similar to uber eats or door dash, The website would be used to place an order for food and have your order delivered to your doorstep. We set it up in a way that is very easy for the user to get familiar with the website (e.g. only having the one page for all the tabs but having the tabs be responsive and take you to the correct portion of the website relating to the tab you click) 
+Description: the website i created is very similar to uber eats or door dash, The website would be used to place an order for food and have your order delivered to your doorstep. It is set it up in a way that is very easy for the user to get familiar with the website (e.g. only having the one page for all the tabs but having the tabs be responsive and take you to the correct portion of the website relating to the tab you click) 
 
 Screenshots: 
 Home page: <img width="488" alt="image" src="https://github.com/Slade1995/Kiwi-Delivery-Website/assets/115507834/89901e9b-c27c-4220-9238-e27840ab3f6b">
