@@ -15,10 +15,7 @@ Services tab: <img width="485" alt="image" src="https://github.com/Slade1995/Kiw
  
 
 
-Contact us: <img width="470" alt="image" src="https://github.com/Slade1995/Kiwi-Delivery-Website/assets/115507834/89060f48-d98f-453a-898c-b4a308941fc9">
-
  
-
 
 About us: <img width="498" alt="image" src="https://github.com/Slade1995/Kiwi-Delivery-Website/assets/115507834/45ec1fee-dea8-4929-9206-28ec3774dbeb">
 
